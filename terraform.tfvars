@@ -1,0 +1,6 @@
+zone = "ru-central1-a"
+cloud_id = "b1gn3d96hr87hs8fh0vk"
+folder_id = "b1gufrirlr898a1ib1u8"
+image_id = "fd80viupr3qjr5g6g9du"
+yc_token = "you_token"
+num = "1"
